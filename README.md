@@ -63,3 +63,8 @@
 
 ## Recent Summer Schools' "Syllabus"
 1- http://mlss.tuebingen.mpg.de/2020/schedule.html
+
+
+## Recent Papers
+
+* CVPR2020 http://openaccess.thecvf.com/CVPR2020.py
