@@ -1,3 +1,5 @@
+<div align=right dir="rtl">
+  
 # Notes
 تجربه ها و نکته های کاربردی در مورد مقاله خوندن، تحقیق، پیاده سازی و تهیه اسلاید
 
@@ -76,3 +78,7 @@
 ## Recent Papers
 
 * CVPR2020 http://openaccess.thecvf.com/CVPR2020.py
+
+  
+  
+<div/>  
