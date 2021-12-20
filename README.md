@@ -1,7 +1,7 @@
 # Notes
 
 <div dir="rtl">
-تجربه ها و نکته های کاربردی در مورد مقاله خوندن، تحقیق، پیاده سازی و تهیه اسلاید
+ تجربه ها و نکته های کاربردی در مورد مقاله خوندن،سابمیت مقاله در کنفرانس های معروف، ریویو کردن مقاله برای کنفرانس های بینایی ماشین، تحقیق، پیاده سازی و تهیه اسلاید
 </div>
   
 ## Presentation
@@ -84,7 +84,16 @@
 ## Recent Summer Schools' "Syllabus"
 1- http://mlss.tuebingen.mpg.de/2020/schedule.html
 
+## How to be a good reviewer?
+
+* [Tutorial, CVPR'22](https://www.youtube.com/watch?v=DeDtLNH9T2M&ab_channel=kjdrutgers)
+* [Slides, CVPR'22](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
+* [Tutorial, CVPR'20](https://www.youtube.com/watch?v=W1zPtTt43LI&ab_channel=DynamicVisionandLearningGroup)
+
 
 ## Recent Papers
 
+* ICCV2021
+* ICML2021
+* CVPR2021
 * CVPR2020 http://openaccess.thecvf.com/CVPR2020.py
