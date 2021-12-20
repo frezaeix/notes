@@ -86,6 +86,7 @@
 
 ## How to be a good reviewer?
 
+* [Reviewer guidelines CVPR'22](https://cvpr2022.thecvf.com/reviewer-guidelines)
 * [Tutorial, CVPR'22](https://www.youtube.com/watch?v=DeDtLNH9T2M&ab_channel=kjdrutgers)
 * [Slides, CVPR'22](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 * [Tutorial, CVPR'20](https://www.youtube.com/watch?v=W1zPtTt43LI&ab_channel=DynamicVisionandLearningGroup)
@@ -93,7 +94,7 @@
 
 ## Recent Papers
 
-* ICCV2021
-* ICML2021
-* CVPR2021
-* CVPR2020 http://openaccess.thecvf.com/CVPR2020.py
+* [ICCV'21](https://openaccess.thecvf.com/ICCV2021)
+* [ICML'21](https://icml.cc/virtual/2021/papers.html?filter=titles) (You may need to register to their websie to see the papers)
+* [CVPR'21](https://openaccess.thecvf.com/CVPR2021)
+* [CVPR'20](http://openaccess.thecvf.com/CVPR2020.py)
